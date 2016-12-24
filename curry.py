@@ -1,4 +1,6 @@
 """
+by Joseph (YC) Kim.
+
 Some implementations to currify/uncurrify functions.
 
 All implementations require that there are no keyword args, 
