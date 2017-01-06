@@ -253,5 +253,5 @@ class asdf(TkAnimationFramework):
     def draw(self, canvas, data):
         self.drawcircle(canvas, data.width//2, data.height//2, 100,4)
         
-# thing()
+thing()
 asdf(400,400)
